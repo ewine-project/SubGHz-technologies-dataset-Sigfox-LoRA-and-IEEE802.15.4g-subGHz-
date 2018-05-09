@@ -1,3 +1,3 @@
 # SubGHz technologies dataset, Sigfox, LoRA and IEEE802.15.4g (subGHz)
 ## Dataset description
-We provide IQ samples for the three subGHz technologies such as Sigfox, LoRA and IEEE 802.15.4 (subGHz). 
+We provide a dataset comprises of IQ samples of the three subGHz technologies including Sigfox, LoRA and IEEE 802.15.4 (subGHz). From the three technologies, 8-classes of signals were generated including, 6 classes of LoRA with spreading factors (SFs) 7, 8, 9, 10, 11 and 12, 1 class of sigfox transmitting randomly on the sigfox channels c0, c180,...c400, and 1 class of IEEE802.15.4g (subGHz). For each signal class, the data was captured for a duration of 120 sec (120,000,000 IQ samples per class). We consider a use case in which the technologies are operating in Europe at the center frequency of 868MHz. 
