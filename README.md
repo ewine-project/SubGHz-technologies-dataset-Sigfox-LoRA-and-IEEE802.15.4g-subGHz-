@@ -5,3 +5,10 @@ We provide a dataset comprises of IQ samples of the three subGHz technologies in
 ## Dataset generation 
 The setup that we used for generating the dataset for the 8-classes of the signals from the subGHz technologies is shown in Figure 2. The comprises of a USRP B200mini which is used for capturing IQ samples from the LoRA, Sigfox and IEEE 802.15.4 (subGHz) transmitters. The IQ samples were captured with a sampling rate of 1M samples/sec and the data was only captured when the radios were made ON by manual triggering.  
 ![drawing2](https://user-images.githubusercontent.com/24733570/39812996-0786ed6c-538f-11e8-959e-25c3b16f61d2.png)
+## Reference
+[1] https://github.com/Zolertia/Resources/wiki/RE-Mote
+
+More information can be found in the deliverable accessable at (https://ewine-project.eu/wp-content/uploads/eWINE_D4.3_Final.pdf)
+## Contact
+For the access to the dataset, you are welcomed to contact adnan.shahid@ugent.be
+
