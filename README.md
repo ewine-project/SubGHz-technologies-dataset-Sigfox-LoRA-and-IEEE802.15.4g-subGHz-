@@ -10,5 +10,5 @@ The setup that we used for generating the dataset for the 8-classes of the signa
 
 More information can be found in the deliverable accessable at (https://ewine-project.eu/wp-content/uploads/eWINE_D4.3_Final.pdf)
 ## Contact
-For the access to the dataset, you are welcomed to contact adnan.shahid@ugent.be
+For an access to the dataset, you are welcomed to contact adnan.shahid@ugent.be
 
